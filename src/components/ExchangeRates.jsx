@@ -23,7 +23,7 @@ export const ExchangeRates = () => {
   const [rowsPerPage, setRowsPerPage] = useState(10);
 
   const baseCurrency = sessionStorage.getItem("currency");
-  const API_KEY = "b4b592d3d4cf40caea2c43ba";
+  const API_KEY = "c8ce9bb33cedf69ee1477034";
 
   const fetchRates = async () => {
     try {
