@@ -1,0 +1,19 @@
+.css-9wvnva {
+  width: 100%;
+  margin-left: auto;
+  box-sizing: border-box;
+  margin-right: auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+@media (min-width: 600px) {
+  .css-9wvnva {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+@media (min-width: 1200px) {
+  .css-9wvnva {
+    max-width: 1200px;
+  }
+}

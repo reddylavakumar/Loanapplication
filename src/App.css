@@ -1,0 +1,76 @@
+.activeTab {
+  background: #3888d8 !important;
+}
+
+.header-main-div {
+  display: flex;
+  gap: 40px;
+}
+
+.error-page-container {
+  /* height: 85vh;
+  display: flex;
+  justify-content: center;
+  align-items: center; */
+  display: block;
+  font-weight: lighter !important   ;
+}
+.error-page-main {
+  height: 85vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+}
+h1 {
+  font-weight: normal;
+}
+.home-inputs {
+  display: flex;
+  gap: 20px;
+}
+
+.calculate-btn {
+  margin-top: 20px;
+}
+.home-main-container {
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+.monthly-emi-text {
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.select-reset-div {
+  display: flex;
+  width: 100%;
+  margin-top: 5px;
+}
+.reset-btn {
+  display: flex;
+  justify-content: end;
+  width: 100%;
+}
+.amortization-schedule {
+  margin-top: 20px;
+  padding: 15px 20px;
+  font-size: 20px;
+}
+
+.amortization-schedule-dark {
+  margin-top: 20px;
+  background-color: #1e1e1e;
+  padding: 15px 20px;
+}
+.live-exhange-rates-header {
+  font-size: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
